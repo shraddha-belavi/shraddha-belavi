@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shraddha-belavi
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).
+- 🔭 Focusing on FullStack (Frontend + Backend + Data Analyst).
 - 👀 I’m interested in Trying to become an expert in Fullstack development.
 - 🌱 I’m currently learning 
 - 💻 I love exploring new tech stacks and building cool stuff.
