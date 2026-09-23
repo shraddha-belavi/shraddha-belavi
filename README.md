@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shraddha-belavi
-- 🔭 Focusing on FullStack (Frontend + Backend + Data Analyst).
-- 👀 I’m interested in Trying to become an expert in Fullstack development.
+- 🔭 Focusing on Data Analyst).
+- 👀 I’m interested in Trying to become an expert in Data Analyst.
 - 🌱 I’m currently learning 
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2025 Goals: Learn Cloud on AWS and Azure.
+- 🥅 2026 Goals: Learn Cloud on AWS and Azure.
   
 
 
